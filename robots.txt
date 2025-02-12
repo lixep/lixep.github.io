@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lixep.csgad.com/NCL/sitemap.xml.gz
